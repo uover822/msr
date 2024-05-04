@@ -26,7 +26,7 @@ running.
 
 1. Checkout this repository.
   ```
-  $ git clone https://github.com/msr-app.git
+  $ git clone https://github.com/uover822/msr.git
   ```
 
 2. Checkout all the microservice repositories.
