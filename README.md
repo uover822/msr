@@ -14,7 +14,7 @@ development ([fuge](//github.com/apparatus/fuge)) modes.
 ## Msr
 
 The msr system is a visual knowledge graph
-for [Node.js](//nodejs.org) modules, using
+using [Node.js](//nodejs.org) and Java modules, using
 the [npm module registry](//npmjs.com) (among others) as an external
 data source.
 
